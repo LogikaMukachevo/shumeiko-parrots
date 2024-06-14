@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+ background-color: rgb(247, 223, 147);
+}
+h1{
+    text-align: center;
+     color: rgb(144, 214, 38); 
+    text-shadow: 3px 3px yellow;
+}
+h2{
+  color: rgb(0, 0, 0); 
+    text-shadow: 3px 3px rgb(216, 194, 122);
+}
+.woof{
+  width:30px ;
+  height: 30px;
+}
+
+header nav{
+  display: flex;
+  justify-content: space-around;
+}
+
+header a{
+  text-shadow: none;
+  color: rgb(247, 0, 255);
+  font-weight: 900;
+  font-size: 24px;
+  padding-left:100px;
+}
+
+.navigation {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  height: 365px;
+  background: url("https://masterzoo.ua/content/uploads/images/100x365_blog4_xviljastiy-papuga.jpg");
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  text-align: center;
+}
+
+footer p{
+  text-align: center;
+  font-size: 10px;
+}
+
+div{
+   text-align: center;
+
+}
+
+.all{
+   width:900px ;
+  height: 500px;
+}
+a{
+  color: #53C2FF;
+  text-shadow: 3px 3px rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+a:hover{
+  text-shadow: none;
+}
+.hworoba{
+  text-align: center;
+}
+.importantly{
+    color: #f33c3cd2;
+  text-shadow: 3px 3px rgb(255, 255, 255);
+}
+
